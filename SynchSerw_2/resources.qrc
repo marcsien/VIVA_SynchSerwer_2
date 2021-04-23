@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/connected.png</file>
+        <file>img/disconnected.png</file>
+        <file>img/nofilesyna.png</file>
+        <file>img/ikonka.png</file>
+        <file>img/wp-reset-icon.png</file>
+        <file>img/mdbok.png</file>
+        <file>img/noconnectmdb.png</file>
+        <file>img/hamster.jpg</file>
+        <file>img/no.png</file>
+        <file>img/yes.png</file>
+    </qresource>
+</RCC>
